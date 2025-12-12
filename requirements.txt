@@ -1,0 +1,6 @@
+seaborn==0.13.2
+jupyterlab==4.5.0
+jupyterlab-dash==0.1.0a3
+python-dotenv==1.2.1
+psycopg2-binary==2.9.11
+sqlalchemy==2.0.45
